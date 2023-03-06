@@ -1,7 +1,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 VET CLINIC ](#-vet-clinic-)
+- [📖 Enumerable ](#-vet-clinic-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
   - [🚀 Live Demo](#live-demo)
@@ -18,7 +18,7 @@
 
 # 📖 Enumerable <a name="about-project"></a>
 
-**VET CLINIC** In this project we will learn how to use a module inside your class. For this we will create a class MyList and a module MyEnumerable. Our module MyEnumerable will implement a subset of the functionality of Enumerable.
+**Enumerable** In this project we will learn how to use a module inside your class. For this we will create a class MyList and a module MyEnumerable. Our module MyEnumerable will implement a subset of the functionality of Enumerable.
 
 ## 🛠 Built With <a name="built-with"></a>
 
